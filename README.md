@@ -1,4 +1,4 @@
-# Sea_Animal_Identification_by_LLM
+# Marine_Species_Identification_by_LLM
 This project aims to identify a sea animal image using a LLM and outputsa detailed information about the species.
 
 # OVERVIEW
